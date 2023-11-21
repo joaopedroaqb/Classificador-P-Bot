@@ -23,15 +23,15 @@ Este bot no Telegram utiliza um modelo de classificação de doenças pulmonares
 - Em caso de problemas ou dúvidas, digite ou clique em `/help` para obter assistência.
 
 ## Importações que irão utilizar
-import os
-import telebot
-import torch
-from torch import nn
-import torch.nn.functional as F
-import numpy as np
-from PIL import Image
+- import os
+- import telebot
+- import torch
+- from torch import nn
+- import torch.nn.functional as F
+- import numpy as np
+- from PIL import Image
 
-##Criação
+## Criação
 Criado por João Pedro Araujo Queiroz Barbosa
 
 
